@@ -1,0 +1,363 @@
+canonical_identifier: bkk:krp/KR6q0425/v1
+canonical_location: https://kanripo.org/bkk/KR6q0425/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 笑堂和尚語錄
+  identifiers:
+    alt_id:
+    - J28nB206
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/J/J28/J28nB206.xml
+    old_id: J28nB206
+  edition:
+    short: bkk
+editions:
+- short: 嘉興
+  label: 嘉興
+  source_xml_id: wit.orig
+- short: J
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0425_000.yaml, hash: 'sha256:b830b86db9f963c209a0aa34034c579707f681d7f0c02f6d23854a73797784cf'}
+  - {seq: 1, filename: KR6q0425_001.yaml, hash: 'sha256:d6869f9f9c5ec97798a039d5d47e3243224c49c496c18ad562c71ca377cd995d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0425_000.markers.yaml, hash: 'sha256:b5e36ecf89a3cd557fc46a892d2356e1d7866f77fa1d7cc131140e648b2a83ff'}
+  - {seq: 1, role: markers, filename: assets/KR6q0425_001.markers.yaml, hash: 'sha256:3c710136502551ff042e8794e939f6b217c639ca5b6622120fc45235f27a331a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0425_J_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0425_J_000-mulu-2
+    span:
+    - front
+    - 0
+    - 0
+  label: 陳之伸序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0425_J_000-mulu-3
+    span:
+    - front
+    - 543
+    - 543
+  label: 曹林韻敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0425_J_001-juan-start
+    span:
+    - body
+    - 0
+    - 13677
+  label: 笑堂和尚語錄
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0425_J_001-mulu-1
+    span:
+    - body
+    - 23
+    - 23
+  label: 住浙江餘杭臥龍山廣化禪寺語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0425_J_001-mulu-2
+    span:
+    - body
+    - 7468
+    - 7468
+  label: 機緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0425_J_001-mulu-3
+    span:
+    - body
+    - 9530
+    - 9530
+  label: 讚偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0425_J_001-mulu-4
+    span:
+    - body
+    - 9532
+    - 9532
+  label: 接引佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0425_J_001-mulu-5
+    span:
+    - body
+    - 9596
+    - 9596
+  label: 達摩像
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0425_J_001-mulu-6
+    span:
+    - body
+    - 9639
+    - 9639
+  label: 天童悟祖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0425_J_001-mulu-7
+    span:
+    - body
+    - 9672
+    - 9672
+  label: 天童奇和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0425_J_001-mulu-8
+    span:
+    - body
+    - 9722
+    - 9722
+  label: 三昧和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0425_J_001-mulu-9
+    span:
+    - body
+    - 9756
+    - 9756
+  label: 自題
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0425_J_001-mulu-10
+    span:
+    - body
+    - 9809
+    - 9809
+  label: 與閩雪吼公
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0425_J_001-mulu-11
+    span:
+    - body
+    - 9842
+    - 9842
+  label: 與毒山傑公
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0425_J_001-mulu-12
+    span:
+    - body
+    - 9875
+    - 9875
+  label: 與瞿目頂公
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0425_J_001-mulu-13
+    span:
+    - body
+    - 9908
+    - 9908
+  label: 與吼巖獅公
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0425_J_001-mulu-14
+    span:
+    - body
+    - 9941
+    - 9941
+  label: 與霞起晙公
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0425_J_001-mulu-15
+    span:
+    - body
+    - 9974
+    - 9974
+  label: 與懶云學公
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0425_J_001-mulu-16
+    span:
+    - body
+    - 10007
+    - 10007
+  label: 與古月楨公
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0425_J_001-mulu-17
+    span:
+    - body
+    - 10040
+    - 10040
+  label: 贈我鐘沈居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0425_J_001-mulu-18
+    span:
+    - body
+    - 10094
+    - 10094
+  label: 贈秦伯潛居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0425_J_001-mulu-19
+    span:
+    - body
+    - 10128
+    - 10128
+  label: 贈雪峨陸居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0425_J_001-mulu-20
+    span:
+    - body
+    - 10174
+    - 10174
+  label: 贈瑞彰蔣居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0425_J_001-mulu-21
+    span:
+    - body
+    - 10230
+    - 10230
+  label: 贈上由姚居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0425_J_001-mulu-22
+    span:
+    - body
+    - 10264
+    - 10264
+  label: 示宿靈侍者看經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0425_J_001-mulu-23
+    span:
+    - body
+    - 10299
+    - 10299
+  label: 示守真玄徒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0425_J_001-mulu-24
+    span:
+    - body
+    - 10332
+    - 10332
+  label: 示王居士入山
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0425_J_001-mulu-25
+    span:
+    - body
+    - 10366
+    - 10366
+  label: 贈來清張居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0425_J_001-mulu-26
+    span:
+    - body
+    - 10400
+    - 10400
+  label: 贈增之蔡居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0425_J_001-mulu-27
+    span:
+    - body
+    - 10440
+    - 10440
+  label: 拈古
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0425_J_001-mulu-28
+    span:
+    - body
+    - 11502
+    - 11502
+  label: 佛事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0425_J_001-mulu-29
+    span:
+    - body
+    - 11967
+    - 11967
+  label: 行實
+  type: mulu
+  level: 1
+hash: sha256:d26151c7f22157c75925777dcce978a35a08740ec49b6767e0d367ea55374471
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
