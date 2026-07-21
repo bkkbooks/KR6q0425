@@ -21,17 +21,17 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0425_000.yaml, hash: 'sha256:103037af7c33b351d524bf6aa10e2a5901e8128ce8e5248c06d6627fb57b4ae4'}
+  - {seq: 0, filename: KR6q0425_000.yaml, hash: 'sha256:35a2736ef2c6196bb4247b96ec2ff427f1302fffc0364c7a84903da15b8577e4'}
   - {seq: 1, filename: KR6q0425_001.yaml, hash: 'sha256:d62ec8e1f977d0a5a355946fa864ff426341aaa6d42bf379612f88695e8eb511'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0425_000.markers.yaml, hash: 'sha256:571c7653ba13ff5ebf716049e80c4dc62b8bea2255de3fe4a9a3324ba789cfe1'}
+  - {seq: 0, role: markers, filename: assets/KR6q0425_000.markers.yaml, hash: 'sha256:fb32c4152b4d27b34a95b188cfc3fc44cd4214b1ba03edbb7720c5cdbcceee1f'}
   - {seq: 1, role: markers, filename: assets/KR6q0425_001.markers.yaml, hash: 'sha256:8c05bfccd609112eee015c336344e43213fe84b6692116531d5749d7dcb0ab3a'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6q0425_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0425_J_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 陳之伸序
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0425_J_000-mulu-3
     span:
-    - front
+    - body
     - 543
     - 543
   label: 曹林韻敘
@@ -357,7 +357,7 @@ table_of_contents:
   label: 行實
   type: mulu
   level: 1
-hash: sha256:38293c09a29a37df5f0e141f611a9f86d32d0720d01bc09cf5dca5c05037696b
+hash: sha256:f8f2d382dd0baf34ba006ed7a887e88ee1cffc688d19cd9779ac842fa698a0df
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
